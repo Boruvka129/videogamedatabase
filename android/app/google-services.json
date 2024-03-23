@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948499270889",
+    "project_id": "gamedatabase-f240c",
+    "storage_bucket": "gamedatabase-f240c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948499270889:android:e1e074daababf2d7057478",
+        "android_client_info": {
+          "package_name": "com.example.gamedatabaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEoxT2mQavhIKTLECtifxTZy_aMJWEGMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
